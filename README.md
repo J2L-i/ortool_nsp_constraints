@@ -1,1 +1,5 @@
-# ortool_nsp_constraints
+# Project
+
+Tested NSP constraints and initial assignment randomization with Google OR-Tool. 
+
+
